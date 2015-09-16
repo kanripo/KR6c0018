@@ -1,0 +1,4 @@
+001-0913a00	T 001-0913a	buddhist/T-taisho/T25/09/T25-0913.png
+001-0913b00	T 001-0913b	buddhist/T-taisho/T25/09/T25-0913.png
+001-0913c00	T 001-0913c	buddhist/T-taisho/T25/09/T25-0913.png
+001-0914a00	T 001-0914a	buddhist/T-taisho/T25/09/T25-0914.png
